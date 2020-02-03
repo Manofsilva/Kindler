@@ -52,3 +52,4 @@ The following link shows a demo of the app, and walks through the entire flow fr
 * Make folder structure meet MVC criteria
   * Add front end to client folder
 
+![](recording.gif)
