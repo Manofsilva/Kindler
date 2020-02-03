@@ -20,10 +20,9 @@ The user can click the 'create' tab at the bottom of the app to begin the proces
 * Custom-Built movie scraping API
 
 Once data matching user preferences is returned, the user is shown a page with swipeable cards for each category. They can filter through the returned restaurants, movies, and events, and add one of each to their plan that they are interested in. 
-
+```
 The following link shows a demo of the app, and walks through the entire flow from a user perspective:
 
-```sh
 <a href="https://www.youtube.com/watch?v=9QN2OPpL3Kc" target="_blank">Link</a>
 ```
 
