@@ -23,8 +23,9 @@ Once data matching user preferences is returned, the user is shown a page with s
 
 The following link shows a demo of the app, and walks through the entire flow from a user perspective:
 
+```sh
 <a href="https://www.youtube.com/watch?v=9QN2OPpL3Kc" target="_blank">Link</a>
-
+```
 
 ### Technology Used
 
@@ -33,9 +34,9 @@ The following link shows a demo of the app, and walks through the entire flow fr
   * React Native
   * Node.js
   * Express.js
-* MongoDB
+  * MongoDB
   * Mongoose
-* Expo
+  * Expo
 
 ### Contributers
  * Deron Coffie
@@ -51,23 +52,4 @@ The following link shows a demo of the app, and walks through the entire flow fr
 * Work on readme for projcet (include videos, gifs, description)
 * Make folder structure meet MVC criteria
   * Add front end to client folder
-
-__Satchel__:
-* Make genre selection for events reflect user choice
-* In-app feedback/response when user selects date, all other categories, or
-swipes card
-* Add in ability to select types of date plans before creation 
-(movie, food, event, or all) after 'day' selection 
-* Turn all separate selector wheels into one component, update based on page
-loaded
-* Remove outdated comments
-
-__Deron__: 
-* Animations on page load + login
-* Add in 'staying in' option (after 'day' selection)
-* Consistent UI font styling, page animations/images
-* Add in ability to login with emails
-
-__Cesar__:
-* To add
 
